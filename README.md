@@ -15,4 +15,3 @@ If you use this data please cite:
   booktitle={2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)}
 }
 ```
- 

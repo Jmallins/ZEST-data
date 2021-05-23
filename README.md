@@ -5,8 +5,6 @@ This repo contains the GEOLino dataset used within the paper [Zero-Shot Crosslin
 
 For the splits on TextComplexityDE see https://github.com/Jmallins/TextComplexityDE
 
-For the code see https://github.com/Jmallins/ZEST
-
 If you use this data please cite:
 
 ```BibTex

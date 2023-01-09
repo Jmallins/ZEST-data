@@ -1,6 +1,6 @@
 # Repo
 
-This repo contains the GEOLino dataset used within the paper [Zero-Shot Crosslingual Sentence Simplification](http://link.to.come.later)
+This repo contains the GEOLino dataset used within the paper [Zero-Shot Crosslingual Sentence Simplification]([http://link.to.come.later](https://aclanthology.org/2020.emnlp-main.415/))
 
 
 For the splits on TextComplexityDE see https://github.com/Jmallins/TextComplexityDE
